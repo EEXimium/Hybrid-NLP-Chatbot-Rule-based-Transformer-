@@ -1,0 +1,14 @@
+                   precision    recall  f1-score   support
+
+          goodbye      0.000     0.000     0.000         2
+            greet      0.286     1.000     0.444         4
+             help      0.000     0.000     0.000         1
+            hours      0.000     0.000     0.000         1
+         location      0.000     0.000     0.000         2
+          pricing      0.000     0.000     0.000         2
+smalltalk_feeling      0.000     0.000     0.000         1
+           thanks      0.000     0.000     0.000         1
+
+         accuracy                          0.286        14
+        macro avg      0.036     0.125     0.056        14
+     weighted avg      0.082     0.286     0.127        14

@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "name": "greet",
+      "samples": [
+        "hi",
+        "hello",
+        "hey",
+        "yo",
+        "selam",
+        "merhaba",
+        "hey there",
+        "hello there",
+        "hi bot",
+        "good morning",
+        "good evening",
+        "selamlar",
+        "merhabalar",
+        "hey!",
+        "hi!"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I do for you?"
+      ]
+    },
+    {
+      "name": "goodbye",
+      "samples": [
+        "bye",
+        "goodbye",
+        "see you",
+        "talk later",
+        "görüşürüz",
+        "sonra görüşürüz"
+      ],
+      "responses": [
+        "Goodbye! 👋",
+        "See you next time!"
+      ]
+    },
+    {
+      "name": "thanks",
+      "samples": [
+        "thanks",
+        "thank you",
+        "çok sağol",
+        "teşekkürler",
+        "teşekkür ederim"
+      ],
+      "responses": [
+        "Anytime! :)",
+        "You're welcome!"
+      ]
+    },
+    {
+      "name": "hours",
+      "samples": [
+        "what are your hours",
+        "opening hours",
+        "when are you open",
+        "kaçta açıksınız",
+        "çalışma saatleri",
+        "ne zaman açıksınız"
+      ],
+      "responses": [
+        "We're open from 09:00 to 18:00 on weekdays."
+      ]
+    },
+    {
+      "name": "location",
+      "samples": [
+        "where are you",
+        "address",
+        "konum",
+        "neredesiniz",
+        "adres",
+        "how to find you"
+      ],
+      "responses": [
+        "We're located in Istanbul."
+      ]
+    },
+    {
+      "name": "pricing",
+      "samples": [
+        "how much",
+        "price",
+        "pricing",
+        "ücret",
+        "fiyat",
+        "kaça",
+        "ne kadar"
+      ],
+      "responses": [
+        "You can find our pricing on the website. Need a link?"
+      ]
+    },
+    {
+      "name": "help",
+      "samples": [
+        "help",
+        "i need help",
+        "yardım",
+        "what can you do",
+        "neler yapabilirsin"
+      ],
+      "responses": [
+        "I can answer common questions like hours, location, pricing, and more."
+      ]
+    },
+    {
+      "name": "smalltalk_feeling",
+      "samples": [
+        "how are you",
+        "how's it going",
+        "how do you feel",
+        "what's up",
+        "nasılsın",
+        "naber",
+        "nasıl gidiyor",
+        "ne haber",
+        "how are u",
+        "how r u",
+        "how are ya",
+        "how are you doing"
+      ],
+      "responses": [
+        "Doing great—thanks for asking! How can I assist you?",
+        "I’m good! What can I help you with?",
+        "Harika, teşekkürler! Nasıl yardımcı olabilirim?"
+      ]
+    },
+    {
+      "name": "fallback",
+      "samples": [
+        ""
+      ],
+      "responses": [
+        "Sorry, I didn’t quite get that. Could you rephrase?"
+      ]
+    }
+  ]
+}
